@@ -1,0 +1,62 @@
+h1{
+	font-size: 120px; 
+	text-align: center;
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body{
+	background-color: #CBE7C6;
+	width:960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#background{
+/*	background-image: url(images/background_pic.jpg);*/
+}
+
+#profile_pic{
+	width: 272px;
+	height:426px;
+	border-width: 5px;
+	border-style: double;
+	float:left;
+}
+
+#about{
+	width:960px;
+	font-size: 47px;
+	text-align: center;
+}
+footer{
+	font-size: 25px;
+	padding-top: 20px;
+	width:960px;
+	text-align: center;
+}
+
+#portfolio{
+	margin-top: 10px;
+	margin-left: 10px;
+	width:455px;
+	height:300px;
+	background-color: white;
+	float:right;
+	text-align: center;
+}
+
+#goals{
+	margin-top: 10px;
+	margin-left: 10px;
+	width:455px;
+	height:300px;
+	background-color: white;
+	text-align: center;
+}
+
+h2{
+	font-size: 30px;
+	padding-top: 10px;
+}
